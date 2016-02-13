@@ -1,0 +1,15 @@
+-r
+C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\My Advisor XE Results - MPI\e000\mp000
+--tool=map
+--search-dir
+sym=C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI
+--search-dir
+bin=C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI
+--search-dir
+bin=C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\P1
+--search-dir
+bin=C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\P2
+--search-dir
+bin=C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\P3
+--
+C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\x64\Release\MPI.exe

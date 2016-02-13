@@ -1,0 +1,99 @@
+
+=== Start: [2016/02/03 22:55:29] === 
+Analysis started...
+Result file: C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\My Advisor XE Results - MPI\e000\mp000\mp000.advixe 
+Found target process c:\users\dan_gos\documents\visual studio 2013\projects\mpi\mpi\x64\release\mpi.exe (PID = 8228). Analysis started... 
+Loaded module: C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\x64\Release\MPI.exe. 
+Loaded module: C:\Windows\system32\KERNELBASE.dll. 
+Loaded module: C:\Windows\system32\KERNEL32.DLL. 
+Loaded module: C:\Windows\SYSTEM32\ntdll.dll. 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.1.146\windows\mpi\intel64\bin\impi.dll. 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\compiler\libifcoremd.dll. 
+Loaded module: C:\Windows\SYSTEM32\MSVCR120.dll. 
+Loaded module: C:\Windows\SYSTEM32\MSWSOCK.dll. 
+Loaded module: C:\Windows\system32\WS2_32.dll. 
+Loaded module: C:\Windows\system32\RPCRT4.dll. 
+Loaded module: C:\Windows\SYSTEM32\MPR.dll. 
+Loaded module: C:\Windows\system32\CRYPT32.dll. 
+Loaded module: C:\Windows\SYSTEM32\IPHLPAPI.DLL. 
+Loaded module: C:\Windows\system32\ADVAPI32.dll. 
+Loaded module: C:\Windows\system32\ole32.dll. 
+Loaded module: C:\Windows\system32\OLEAUT32.dll. 
+Loaded module: C:\Windows\SYSTEM32\NTDSAPI.dll. 
+Loaded module: C:\Windows\SYSTEM32\Secur32.dll. 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\compiler\libmmd.dll. 
+Loaded module: C:\Windows\system32\imagehlp.dll. 
+Loaded module: C:\Windows\system32\NSI.dll. 
+Loaded module: C:\Windows\system32\msvcrt.dll. 
+Loaded module: C:\Windows\system32\MSASN1.dll. 
+Loaded module: C:\Windows\SYSTEM32\WINNSI.DLL. 
+Loaded module: C:\Windows\SYSTEM32\sechost.dll. 
+Loaded module: C:\Windows\SYSTEM32\combase.dll. 
+Loaded module: C:\Windows\system32\GDI32.dll. 
+Loaded module: C:\Windows\system32\USER32.dll. 
+Loaded module: C:\Windows\SYSTEM32\DSPARSE.DLL. 
+Loaded module: C:\Windows\SYSTEM32\SSPICLI.DLL. 
+Loaded module: C:\Windows\system32\IMM32.DLL. 
+Loaded module: C:\Windows\system32\MSCTF.dll. 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\mkl\libimalloc.dll. 
+Loaded module: C:\Windows\SYSTEM32\CRYPTBASE.dll. 
+Loaded module: C:\Windows\SYSTEM32\bcryptPrimitives.dll. 
+Loaded module: C:\Windows\system32\napinsp.dll. 
+Loaded module: C:\Windows\system32\pnrpnsp.dll. 
+Loaded module: C:\Windows\system32\NLAapi.dll. 
+Loaded module: C:\Windows\SYSTEM32\DNSAPI.dll. 
+Loaded module: C:\Windows\System32\winrnr.dll. 
+Loaded module: C:\Program Files\National Instruments\Shared\mDNS Responder\nimdnsNSP.dll. 
+Loaded module: C:\Windows\SYSTEM32\nimdnsResponder.dll. 
+Loaded module: C:\Windows\WinSxS\amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.8387_none_08e793bfa83a89b5\MSVCR90.dll. 
+Loaded module: C:\Windows\system32\wshbth.dll. 
+Unloaded module: C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\x64\Release\MPI.exe. 
+Unloaded module: C:\Windows\system32\KERNELBASE.dll. 
+Unloaded module: C:\Windows\system32\KERNEL32.DLL. 
+Unloaded module: C:\Windows\SYSTEM32\ntdll.dll. 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.1.146\windows\mpi\intel64\bin\impi.dll. 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\compiler\libifcoremd.dll. 
+Unloaded module: C:\Windows\SYSTEM32\MSVCR120.dll. 
+Unloaded module: C:\Windows\SYSTEM32\MSWSOCK.dll. 
+Unloaded module: C:\Windows\system32\WS2_32.dll. 
+Unloaded module: C:\Windows\system32\RPCRT4.dll. 
+Unloaded module: C:\Windows\SYSTEM32\MPR.dll. 
+Unloaded module: C:\Windows\system32\CRYPT32.dll. 
+Unloaded module: C:\Windows\SYSTEM32\IPHLPAPI.DLL. 
+Unloaded module: C:\Windows\system32\ADVAPI32.dll. 
+Unloaded module: C:\Windows\system32\ole32.dll. 
+Unloaded module: C:\Windows\system32\OLEAUT32.dll. 
+Unloaded module: C:\Windows\SYSTEM32\NTDSAPI.dll. 
+Unloaded module: C:\Windows\SYSTEM32\Secur32.dll. 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\compiler\libmmd.dll. 
+Unloaded module: C:\Windows\system32\imagehlp.dll. 
+Unloaded module: C:\Windows\system32\NSI.dll. 
+Unloaded module: C:\Windows\system32\msvcrt.dll. 
+Unloaded module: C:\Windows\system32\MSASN1.dll. 
+Unloaded module: C:\Windows\SYSTEM32\WINNSI.DLL. 
+Unloaded module: C:\Windows\SYSTEM32\sechost.dll. 
+Unloaded module: C:\Windows\SYSTEM32\combase.dll. 
+Unloaded module: C:\Windows\system32\GDI32.dll. 
+Unloaded module: C:\Windows\system32\USER32.dll. 
+Unloaded module: C:\Windows\SYSTEM32\DSPARSE.DLL. 
+Unloaded module: C:\Windows\SYSTEM32\SSPICLI.DLL. 
+Unloaded module: C:\Windows\system32\IMM32.DLL. 
+Unloaded module: C:\Windows\system32\MSCTF.dll. 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\mkl\libimalloc.dll. 
+Unloaded module: C:\Windows\SYSTEM32\CRYPTBASE.dll. 
+Unloaded module: C:\Windows\SYSTEM32\bcryptPrimitives.dll. 
+Unloaded module: C:\Windows\system32\napinsp.dll. 
+Unloaded module: C:\Windows\system32\pnrpnsp.dll. 
+Unloaded module: C:\Windows\system32\NLAapi.dll. 
+Unloaded module: C:\Windows\SYSTEM32\DNSAPI.dll. 
+Unloaded module: C:\Windows\System32\winrnr.dll. 
+Unloaded module: C:\Program Files\National Instruments\Shared\mDNS Responder\nimdnsNSP.dll. 
+Unloaded module: C:\Windows\SYSTEM32\nimdnsResponder.dll. 
+Unloaded module: C:\Windows\WinSxS\amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.8387_none_08e793bfa83a89b5\MSVCR90.dll. 
+Unloaded module: C:\Windows\system32\wshbth.dll. 
+Process c:\users\dan_gos\documents\visual studio 2013\projects\mpi\mpi\x64\release\mpi.exe (PID = 8228) has terminated. 
+Warning: No SITE annotations were encountered, so no stride/alignment data can be reported. 
+Application exit code: 0 
+Result file: C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\My Advisor XE Results - MPI\e000\mp000\mp000.advixe 
+Analysis completed
+=== End: [2016/02/03 22:55:42] === 

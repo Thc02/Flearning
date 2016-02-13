@@ -1,0 +1,99 @@
+
+=== Start: [2016/02/03 22:54:17] === 
+Analysis started...
+Result file: C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\My Inspector XE Results - MPI\r001mi2\r001mi2.inspxe 
+Analysis started for C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\x64\Release\MPI.exe (pid = 8064) 
+Loaded module: C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\x64\Release\MPI.exe, address range [0x00007FF7782E0000-0x00007FF7782EAFFF] 
+Loaded module: C:\Windows\system32\KERNELBASE.dll, address range [0x00007FFD5F590000-0x00007FFD5F6A4FFF] 
+Loaded module: C:\Windows\system32\KERNEL32.DLL, address range [0x00007FFD61820000-0x00007FFD6195DFFF] 
+Loaded module: C:\Windows\SYSTEM32\ntdll.dll, address range [0x00007FFD62320000-0x00007FFD624CBFFF] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.1.146\windows\mpi\intel64\bin\impi.dll, address range [0x00007FFD32D70000-0x00007FFD33240FFF] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\compiler\libifcoremd.dll, address range [0x00007FFD35470000-0x00007FFD3562DFFF] 
+Loaded module: C:\Windows\SYSTEM32\MSVCR120.dll, address range [0x00007FFD35380000-0x00007FFD3546EFFF] 
+Loaded module: C:\Windows\SYSTEM32\MSWSOCK.dll, address range [0x00007FFD5EC80000-0x00007FFD5ECD8FFF] 
+Loaded module: C:\Windows\system32\WS2_32.dll, address range [0x00007FFD5FCC0000-0x00007FFD5FD19FFF] 
+Loaded module: C:\Windows\system32\RPCRT4.dll, address range [0x00007FFD621D0000-0x00007FFD62310FFF] 
+Loaded module: C:\Windows\SYSTEM32\MPR.dll, address range [0x00007FFD52A50000-0x00007FFD52A6DFFF] 
+Loaded module: C:\Windows\system32\CRYPT32.dll, address range [0x00007FFD5F6B0000-0x00007FFD5F88EFFF] 
+Loaded module: C:\Windows\SYSTEM32\IPHLPAPI.DLL, address range [0x00007FFD593B0000-0x00007FFD593D9FFF] 
+Loaded module: C:\Windows\system32\ADVAPI32.dll, address range [0x00007FFD614A0000-0x00007FFD61549FFF] 
+Loaded module: C:\Windows\system32\ole32.dll, address range [0x00007FFD61F40000-0x00007FFD620D3FFF] 
+Loaded module: C:\Windows\system32\OLEAUT32.dll, address range [0x00007FFD620F0000-0x00007FFD621B0FFF], minimal analysis 
+Loaded module: C:\Windows\SYSTEM32\NTDSAPI.dll, address range [0x00007FFD5AD60000-0x00007FFD5AD88FFF] 
+Loaded module: C:\Windows\SYSTEM32\Secur32.dll, address range [0x00007FFD56810000-0x00007FFD5681BFFF] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\compiler\libmmd.dll, address range [0x00007FFD315D0000-0x00007FFD31926FFF] 
+Loaded module: C:\Windows\system32\imagehlp.dll, address range [0x00007FFD61800000-0x00007FFD61815FFF] 
+Loaded module: C:\Windows\system32\NSI.dll, address range [0x00007FFD5FD20000-0x00007FFD5FD28FFF] 
+Loaded module: C:\Windows\system32\msvcrt.dll, address range [0x00007FFD5FE50000-0x00007FFD5FEF9FFF] 
+Loaded module: C:\Windows\system32\MSASN1.dll, address range [0x00007FFD5F520000-0x00007FFD5F530FFF] 
+Loaded module: C:\Windows\SYSTEM32\WINNSI.DLL, address range [0x00007FFD59390000-0x00007FFD59399FFF] 
+Loaded module: C:\Windows\SYSTEM32\sechost.dll, address range [0x00007FFD5FDF0000-0x00007FFD5FE48FFF] 
+Loaded module: C:\Windows\SYSTEM32\combase.dll, address range [0x00007FFD5FAA0000-0x00007FFD5FCB0FFF], minimal analysis 
+Loaded module: C:\Windows\system32\GDI32.dll, address range [0x00007FFD61AC0000-0x00007FFD61C0FFFF] 
+Loaded module: C:\Windows\system32\USER32.dll, address range [0x00007FFD61DC0000-0x00007FFD61F36FFF] 
+Loaded module: C:\Windows\SYSTEM32\DSPARSE.DLL, address range [0x00007FFD55B70000-0x00007FFD55B7BFFF] 
+Loaded module: C:\Windows\SYSTEM32\SSPICLI.DLL, address range [0x00007FFD5F2A0000-0x00007FFD5F2CDFFF] 
+Loaded module: C:\Windows\system32\IMM32.DLL, address range [0x00007FFD5FA60000-0x00007FFD5FA95FFF] 
+Loaded module: C:\Windows\system32\MSCTF.dll, address range [0x00007FFD61960000-0x00007FFD61AB1FFF] 
+Loaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\mkl\libimalloc.dll, address range [0x00007FFD58B70000-0x00007FFD58B73FFF] 
+Loaded module: C:\Windows\SYSTEM32\CRYPTBASE.dll, address range [0x00007FFD5F340000-0x00007FFD5F34AFFF] 
+Loaded module: C:\Windows\SYSTEM32\bcryptPrimitives.dll, address range [0x00007FFD5F2D0000-0x00007FFD5F332FFF] 
+Loaded module: C:\Windows\system32\napinsp.dll, address range [0x00007FFD529E0000-0x00007FFD529F4FFF], minimal analysis 
+Loaded module: C:\Windows\system32\pnrpnsp.dll, address range [0x00007FFD529C0000-0x00007FFD529D9FFF], minimal analysis 
+Loaded module: C:\Windows\system32\NLAapi.dll, address range [0x00007FFD5ADD0000-0x00007FFD5ADEAFFF] 
+Loaded module: C:\Windows\SYSTEM32\DNSAPI.dll, address range [0x00007FFD5EA80000-0x00007FFD5EB23FFF] 
+Loaded module: C:\Windows\System32\winrnr.dll, address range [0x00007FFD51ED0000-0x00007FFD51EDCFFF] 
+Loaded module: C:\Program Files\National Instruments\Shared\mDNS Responder\nimdnsNSP.dll, address range [0x0000000063560000-0x0000000063568FFF] 
+Loaded module: C:\Windows\SYSTEM32\nimdnsResponder.dll, address range [0x0000000063550000-0x000000006355DFFF] 
+Loaded module: C:\Windows\WinSxS\amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.8387_none_08e793bfa83a89b5\MSVCR90.dll, address range [0x0000000057EC0000-0x0000000057F62FFF] 
+Loaded module: C:\Windows\system32\wshbth.dll, address range [0x00007FFD51EB0000-0x00007FFD51EC3FFF] 
+Process C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\x64\Release\MPI.exe exited with code 0. Leak analysis starting. Please wait... 
+Unloaded module: C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\x64\Release\MPI.exe 
+Unloaded module: C:\Windows\system32\KERNELBASE.dll 
+Unloaded module: C:\Windows\system32\KERNEL32.DLL 
+Unloaded module: C:\Windows\SYSTEM32\ntdll.dll 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016.1.146\windows\mpi\intel64\bin\impi.dll 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\compiler\libifcoremd.dll 
+Unloaded module: C:\Windows\SYSTEM32\MSVCR120.dll 
+Unloaded module: C:\Windows\SYSTEM32\MSWSOCK.dll 
+Unloaded module: C:\Windows\system32\WS2_32.dll 
+Unloaded module: C:\Windows\system32\RPCRT4.dll 
+Unloaded module: C:\Windows\SYSTEM32\MPR.dll 
+Unloaded module: C:\Windows\system32\CRYPT32.dll 
+Unloaded module: C:\Windows\SYSTEM32\IPHLPAPI.DLL 
+Unloaded module: C:\Windows\system32\ADVAPI32.dll 
+Unloaded module: C:\Windows\system32\ole32.dll 
+Unloaded module: C:\Windows\system32\OLEAUT32.dll 
+Unloaded module: C:\Windows\SYSTEM32\NTDSAPI.dll 
+Unloaded module: C:\Windows\SYSTEM32\Secur32.dll 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\compiler\libmmd.dll 
+Unloaded module: C:\Windows\system32\imagehlp.dll 
+Unloaded module: C:\Windows\system32\NSI.dll 
+Unloaded module: C:\Windows\system32\msvcrt.dll 
+Unloaded module: C:\Windows\system32\MSASN1.dll 
+Unloaded module: C:\Windows\SYSTEM32\WINNSI.DLL 
+Unloaded module: C:\Windows\SYSTEM32\sechost.dll 
+Unloaded module: C:\Windows\SYSTEM32\combase.dll 
+Unloaded module: C:\Windows\system32\GDI32.dll 
+Unloaded module: C:\Windows\system32\USER32.dll 
+Unloaded module: C:\Windows\SYSTEM32\DSPARSE.DLL 
+Unloaded module: C:\Windows\SYSTEM32\SSPICLI.DLL 
+Unloaded module: C:\Windows\system32\IMM32.DLL 
+Unloaded module: C:\Windows\system32\MSCTF.dll 
+Unloaded module: C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2016\windows\redist\intel64\mkl\libimalloc.dll 
+Unloaded module: C:\Windows\SYSTEM32\CRYPTBASE.dll 
+Unloaded module: C:\Windows\SYSTEM32\bcryptPrimitives.dll 
+Unloaded module: C:\Windows\system32\napinsp.dll 
+Unloaded module: C:\Windows\system32\pnrpnsp.dll 
+Unloaded module: C:\Windows\system32\NLAapi.dll 
+Unloaded module: C:\Windows\SYSTEM32\DNSAPI.dll 
+Unloaded module: C:\Windows\System32\winrnr.dll 
+Unloaded module: C:\Program Files\National Instruments\Shared\mDNS Responder\nimdnsNSP.dll 
+Unloaded module: C:\Windows\SYSTEM32\nimdnsResponder.dll 
+Unloaded module: C:\Windows\WinSxS\amd64_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.8387_none_08e793bfa83a89b5\MSVCR90.dll 
+Unloaded module: C:\Windows\system32\wshbth.dll 
+Completed analysis for C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\x64\Release\MPI.exe 
+Application exit code: 0 
+Result file: C:\Users\dan_gos\Documents\Visual Studio 2013\Projects\MPI\MPI\My Inspector XE Results - MPI\r001mi2\r001mi2.inspxe 
+Analysis completed
+=== End: [2016/02/03 22:54:37] === 
