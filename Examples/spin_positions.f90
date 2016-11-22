@@ -1,4 +1,4 @@
-! Script que genera una res de espines con posiciones al azar(1: arriba, 2: abajo, 3: derecha, 4: izquierda )
+! Script que genera una red de espines con posiciones al azar(1: arriba, 2: abajo, 3: derecha, 4: izquierda )
 ! 10 x 10 posiciones
 subroutine cumulated( x, y, n )
   
